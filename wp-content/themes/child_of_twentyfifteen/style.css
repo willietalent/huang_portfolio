@@ -1,0 +1,9 @@
+/*
+Theme name: Custom client x theme
+Description: Child theme based on Twenty Fifteen
+Author: Will Huang
+Version: 1.0
+Template: twentyfifteen
+*/
+
+@import url('../twentyfifteen/style.css'); /*read style from parent theme*/
