@@ -7,3 +7,5 @@ Template: twentyfifteen
 */
 
 @import url('../twentyfifteen/style.css'); /*read style from parent theme*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,800|PT+Sans+Narrow&display=swap');
