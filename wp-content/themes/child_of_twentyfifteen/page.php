@@ -1,6 +1,7 @@
 <?php
 /**
- * The template for displaying pages
+ * Template Name: notitle.php
+ *this template is for a basic page with no title at the top
  *
  * This is the template that displays all pages by default.
  * Please note that this is the WordPress construct of pages and that
