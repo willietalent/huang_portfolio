@@ -8,4 +8,27 @@ Template: twentyfifteen
 
 @import url('../twentyfifteen/style.css'); /*read style from parent theme*/
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,800|PT+Sans+Narrow&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700,800|PT+Sans+Narrow&display=swap');
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif; */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+}
+
+p {
+     font-family: 'Montserrat', sans-serif;
+     font-weight: 300;
+}
+
+.site-title {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+
+.page-title {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bold;
+}

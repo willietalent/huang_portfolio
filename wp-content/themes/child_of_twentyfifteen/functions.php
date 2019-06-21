@@ -13,7 +13,7 @@ function my_theme_enqueue_styles() {
 }
 
 function wpd_add_google_fonts() {
-     wp_enqueue_style( 'wpd-google-fonts','https://fonts.googleapis.com/css?family=Montserrat:400,700,800|PT+Sans+Narrow&display=swap', false);
+     wp_enqueue_style( 'wpd-google-fonts',"https://fonts.googleapis.com/css?family=Montserrat:300,400,700,800|PT+Sans+Narrow&display=swap", false);
 }
 
 add_action('wp_enqueue_scripts', 'wpd_add_google_fonts');
